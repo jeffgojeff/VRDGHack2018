@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main{
+int main(){
 
 	string var1;
 	
@@ -10,7 +10,7 @@ int main{
 	cin >> var1;
 
 
-	
+	cout << "hello";
 	
 
 
