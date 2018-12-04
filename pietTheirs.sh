@@ -8,9 +8,9 @@ echo
 echo $GROUPNAME
 echo
 
-open ./pietFinal.png
+open ./nhello-big.gif
 
-npiet -tpic pietFinal.png
+npiet -tpic nhello.ppm
 
 
 echo
