@@ -1,7 +1,7 @@
 # VRDGHack2018
 VRDG Hackathon Dec 1st, 2018
 
-Team Members: Jeffrey C. Slocum, Jacob Rojas, Aaron Martin
+Team Members: Jeffrey C. Slocum, Jacob Rojas, Aaron Elam
 
 Language Used: Piet
 
